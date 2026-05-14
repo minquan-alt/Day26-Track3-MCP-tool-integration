@@ -1,0 +1,10 @@
+{
+"mcpServers": {
+    "sqlite-lab": {
+    "type": "stdio",
+    "command": "/home/quang_ai/miniconda3/envs/aip/bin/python3.10",
+    "args": ["/home/quang_ai/admin/AIThucChien/Phase2-Track3/MCPIntegration/implementation/mcp_server.py"],
+    "env": {}
+        }
+    }
+}
